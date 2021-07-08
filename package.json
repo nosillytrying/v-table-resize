@@ -1,0 +1,19 @@
+{
+  "name": "v-table-resize",
+  "version": "1.0.12",
+  "description": "element-ui 的 el-table 表格 自适应剩余高度 充满剩余的屏幕, Vue directive",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nosillytrying/v-table-resize.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Vue", "element-ui", "el-table", "resize", "auto-height", "autoHeight", "auto", "height"],
+  "author": "1852157055@qq.com Nosillytrying",
+  "license": "ISC"
+}
